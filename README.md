@@ -1,9 +1,11 @@
-# ** **
+# **Data Visualization by FreeCodeCamp**
 
-![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
+![HTML 4.01](https://img.shields.io/badge/HTML-4.01-skyblue.svg)
+![CSS3](https://img.shields.io/badge/CSS3-pink.svg)
+![JavaScript](https://img.shields.io/badge/JavaScript-neongreen.svg)
 
 Download Additional Files :
-• This repository consists of files required to deploy a 
+• This repository consists of files required to deploy a following data visualization.
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
@@ -13,26 +15,13 @@ Download Additional Files :
 - [@Akash Kumar Jha](https://github.com/Akash1070)
 
 
-## Deployment
+## Projects
+  1. Visualize Data with a Bar Chart
+  2. Visualize Data with a Choropleth Map
+  3. Visualize Data with a Heat Map
+  4. Visualize Data with a Scatterplot Graph
+  5. Visualize Data with a Treemap Diagram
 
-  
-## Installation
-
-To install the libraries used in this project. Follow the 
-below steps:
-
-```bash
-
-
-```
-    
-## Running Flask Api
-
-To run tests, run the following command
-
-```bash
-  python app.py
-```
 
 ## 🚀 About Me
 
