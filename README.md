@@ -24,7 +24,7 @@ https://codepen.io/akash1070/pen/OJZEvRW
 );
 - [Visualize Data with a Choropleth Map](
 https://codepen.io/akash1070/pen/YzLvaNy);
-- Visualize Data with a Heat Map](
+- [Visualize Data with a Heat Map](
 https://codepen.io/akash1070/pen/XWqYEpo
 );
 - [Visualize Data with a Scatterplot Graph](
