@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(229, 226, 224);
+  font-family: monospace;
+}
+
+svg {
+  background-color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  box-shadow: 0 0 10px 10px #ccc;
+}
+
+.bar:hover {
+  fill: white;
+}
+
+#tooltip {
+  position: relative;
+  width: 120px;
+  border: 1px solid rgb(97, 94, 84);
+  border-radius: 10px;
+  background: rgb(229, 226, 224);
+  padding: 10px;
+}
+
+#title {
+  font-size: 2.5em;
+  font-weight: bold;
+  text-anchor: middle;
+}
+
+#yAxis-label {
+  fill: black;
+  text-anchor: middle;
+  font-size: 1.5em;
+}
+
+.bar {
+  fill: #2eaed1;
+}

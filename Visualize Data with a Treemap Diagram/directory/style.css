@@ -1,0 +1,40 @@
+body {
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: 0;
+  overflow: hidden;
+  font-family: Tahoma;
+}
+
+#tooltip {
+  position: fixed;
+  width: 150px;
+  border: 1px solid rgb(97, 94, 84);
+  border-radius: 10px;
+  background: rgb(229, 226, 224);
+  padding: 10px;
+}
+
+#title {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+#description {
+  font-size: 1.2em;
+}
+
+.tile {
+  stroke: white;
+}
+
+.tileText {
+  font-size: 0.5em;
+}
+
+.legend-item-text {
+  font-size: 10px;
+}

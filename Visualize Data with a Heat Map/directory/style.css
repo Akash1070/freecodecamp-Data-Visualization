@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(229, 226, 224);
+  font-family: monospace;
+}
+
+svg {
+  background-color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+#tooltip, #tooltipLegend {
+  position: relative;
+  text-align: center;
+  width: 120px;
+  border: 1px solid rgb(97, 94, 84);
+  border-radius: 10px;
+  background: rgb(229, 226, 224);
+  padding: 10px;
+}
+
+.legend-rect, .cell:hover {
+  stroke: black;
+  stroke-width: 0.8;
+}
+
+#xAxis-label, #yAxis-label {
+  fill: black;
+  text-anchor: middle;
+  font-size: 1.5em;
+}
+
+#title {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+#description {
+  font-size: 1.2em;
+}
