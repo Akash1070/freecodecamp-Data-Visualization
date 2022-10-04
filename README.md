@@ -16,11 +16,23 @@ Download Additional Files :
 
 
 ## Projects
-  1. Visualize Data with a Bar Chart
-  2. Visualize Data with a Choropleth Map
-  3. Visualize Data with a Heat Map
-  4. Visualize Data with a Scatterplot Graph
-  5. Visualize Data with a Treemap Diagram
+ 
+ The five projects are listed as follows:
+
+- [Visualize Data with a Bar Chart](
+https://codepen.io/akash1070/pen/OJZEvRW
+);
+- [Visualize Data with a Choropleth Map](
+https://codepen.io/akash1070/pen/YzLvaNy);
+- Visualize Data with a Heat Map](
+https://codepen.io/akash1070/pen/XWqYEpo
+);
+- [Visualize Data with a Scatterplot Graph](
+https://codepen.io/akash1070/pen/NWMzYpa
+);
+- [Visualize Data with a Treemap Diagram](
+https://codepen.io/akash1070/pen/zYjaWZe
+).
 
 
 ## 🚀 About Me
